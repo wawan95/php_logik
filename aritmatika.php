@@ -1,0 +1,4 @@
+<?php
+//aritmatika
+ echo "aritmatika";
+?>
